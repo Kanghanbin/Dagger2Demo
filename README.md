@@ -76,7 +76,7 @@ public interface StudentComponent {
 
 5.上述操作完成后Build下项目，让Dagger2帮我们生成相关的Java类。
 
-![生成三个Java类](https://github.com/Kanghanbin/Kanghanbin.github.io/blob/master/blog/13.png?raw=true)
+![生成三个Java类](https://Kanghanbin.github.io/blog/13.png)
 
 
 
