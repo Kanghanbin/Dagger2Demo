@@ -12,7 +12,7 @@ dependencies {
 }
 ```
 
-关于Dagger2的依赖配置就不在这里占用篇幅去描述了，大家可以到它的github主页下去查看官方教程<https://github.com/google/dagger>。接下来我们还是拿前面的Car和Engine来举例。
+关于Dagger2的依赖配置就不在这里占用篇幅去描述了，大家可以到它的github主页下去查看官方教程<https://github.com/google/dagger>。接下来我们还是拿前面的Studen和Major来举例。
 
 2.Student类是依赖需求方，依赖了Major类；因此我们需要在类变量Major上添加@Inject来告诉Dagger2来为自己提供依赖。 
 
